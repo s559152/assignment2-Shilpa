@@ -10,7 +10,7 @@ I can play it almost anywhere. It connect people from all around the world. Cric
 My Specialization is Applied Computer Science
 ---
 
-### Assignment-02 Part4
+### About Favourite Sport Details
 
 Team India is my favourite team accross the world.
 
