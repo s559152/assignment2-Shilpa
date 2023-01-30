@@ -1,5 +1,5 @@
-###### Yaramala Shilpa
+# Yaramala Shilpa
 
 I love to sing songs louder when I was alone. It gives me a positive vibes. When I was in pressure I love to listen songs which pushup my vibe.
 
-![Screenshot (2)](pictures/Screenshot (2).png)
+![Picture](pictures/Screenshot (2).png)
