@@ -17,3 +17,9 @@ Team India is my favourite team accross the world.
 1. Virat Kohli
 2. KL Rahul
 3. MS Dhoni
+
+* Teams that I think good to watch
+   * Royal Chalangers Bangalore
+   * Chennai Super Kings
+   * Mumbai Indians
+
