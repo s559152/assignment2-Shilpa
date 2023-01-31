@@ -46,7 +46,7 @@ Teams that I think good to watch
 >"You have to be odd to be number one." - **DR. SEUSS**
 
 
-> "The best way tocheer yourself up is to cheer somebody else up." - **Denis Diderot**
+> "The best way to cheer yourself up is to cheer somebody else up." - **Denis Diderot**
 
 ### Stack Overflow
 >TFS - Enabling code coverage 'Profile' option in build? - [Click Here](https://stackoverflow.com/questions/75300185/tfs-enabling-code-coverage-profile-option-in-build)
