@@ -48,7 +48,19 @@ Teams that I think good to watch
 
 > "The best way tocheer yourself up is to cheer somebody else up." - **Denis Diderot**
 
+### Stack Overflow
+TFS - Enabling code coverage 'Profile' option in build? - [please](https://stackoverflow.com/questions/75300185/tfs-enabling-code-coverage-profile-option-in-build)
 
+```
+@function map-deep-get($map, $keys...) {
+    @each $key in $keys {
+        $map: map-get($map, $key);
+    }
+    @return $map;
+}
+```
+
+go to source [link](https://css-tricks.com/snippets/sass/deep-getset-maps/)
    
 
 
