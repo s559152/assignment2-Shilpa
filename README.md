@@ -49,7 +49,7 @@ Teams that I think good to watch
 > "The best way tocheer yourself up is to cheer somebody else up." - **Denis Diderot**
 
 ### Stack Overflow
-TFS - Enabling code coverage 'Profile' option in build? - [please](https://stackoverflow.com/questions/75300185/tfs-enabling-code-coverage-profile-option-in-build)
+>TFS - Enabling code coverage 'Profile' option in build? - [Click Here](https://stackoverflow.com/questions/75300185/tfs-enabling-code-coverage-profile-option-in-build)
 
 ```
 @function map-deep-get($map, $keys...) {
@@ -60,7 +60,7 @@ TFS - Enabling code coverage 'Profile' option in build? - [please](https://stack
 }
 ```
 
-go to source [link](https://css-tricks.com/snippets/sass/deep-getset-maps/)
+If you want to go to the Source Code[Click Me](https://css-tricks.com/snippets/sass/deep-getset-maps/)
    
 
 
