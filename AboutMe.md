@@ -20,5 +20,11 @@ If you want to go to the image.
 ---
 # Funny quotes
 ---
->"You have to be odd to be number one." - *** DR. SEUSS ***
-> "The best way tocheer yourself up is to cheer somebody else up." - *** Denis Diderot ***
+
+>"You have to be odd to be number one." - 
+
+*** DR. SEUSS ***
+
+> "The best way tocheer yourself up is to cheer somebody else up." - 
+
+*** Denis Diderot ***
