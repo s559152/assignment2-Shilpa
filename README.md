@@ -28,6 +28,26 @@ Teams that I think good to watch
   * New zeland
   * England
 
+---
+# Let's Create Tables
+---
+| Country Name | Description                                   | Days Spend |
+|------------- |-----------------------------------------------|----------- |
+| India        | India is a place for different cultures.      | 4000       |
+| America      | America is a dream country for every one.     | 18250      |  
+| Switzerland  | Switzerland is a place for beauty.            | 365        |
+| Australia    | Australia is a place for Traveler’s paradise. | 26         |
+
+
+---
+# Funny quotes
+---
+
+>"You have to be odd to be number one." - **DR. SEUSS**
+
+
+> "The best way tocheer yourself up is to cheer somebody else up." - **Denis Diderot**
+
    
 
 
