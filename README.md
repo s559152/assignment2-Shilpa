@@ -60,7 +60,7 @@ Teams that I think good to watch
 }
 ```
 
-If you want to go to the Source Code[Click Me](https://css-tricks.com/snippets/sass/deep-getset-maps/)
+If you want to go to the Source Code - [Click Me](https://css-tricks.com/snippets/sass/deep-getset-maps/)
    
 
 
